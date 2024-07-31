@@ -67,5 +67,5 @@ Misclassified images were analyzed to identify patterns and common characteristi
 
 
 ## Acknowledgments
-- TrashNet Dataset
+- [TrashNet Dataset](https://www.kaggle.com/datasets/feyzazkefe/trashnet)
 - TensorFlow and Keras for providing powerful deep learning tools
