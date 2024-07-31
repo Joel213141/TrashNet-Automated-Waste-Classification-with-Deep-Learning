@@ -13,14 +13,6 @@ TrashNet is an AI-powered system designed to classify waste into recyclable cate
 - TensorFlow 2.x
 - Additional libraries specified in `requirements.txt`
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/TrashNet-Classification.git
-   cd TrashNet-Classification
-   ```
-
 ## Data Preparation
 The data preparation script data_preparation.py splits the dataset into training, validation, and test sets. It organizes the data into separate directories for each class and applies the necessary transformations.
 
